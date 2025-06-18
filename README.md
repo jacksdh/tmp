@@ -9,3 +9,5 @@ Body for sec1.
 ## Section2
 
 Body for sec2.
+
+Test for [codeowners](/.github/CODEOWNERS).
